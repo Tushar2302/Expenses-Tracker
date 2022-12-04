@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "806570832654",
+    "project_id": "expenses-tracker-cdd7d",
+    "storage_bucket": "expenses-tracker-cdd7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806570832654:android:1720536998c8dd63e8dd5f",
+        "android_client_info": {
+          "package_name": "com.blaze.expensestracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806570832654-g5jt646grp91oi15tgcf4t41knrr111d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTE_bS_v5cXprWkmcyuxHT3Tgr1poQsX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806570832654-g5jt646grp91oi15tgcf4t41knrr111d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
